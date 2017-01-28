@@ -1,0 +1,4 @@
+* {margin: 0px; padding: 0px; box-sizing: border-box;}
+*:before, *:after { content: ""; display: table; } 
+*:after {clear: both;}
+body {font: 16px / 17px "Arial", sans-serif;}
